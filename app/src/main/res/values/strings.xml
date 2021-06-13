@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">guevaramusic</string>
+
+    <string name="search">Search</string>
+    <string name="item_price">$ %s</string>
+    <string name="no_results_found">No results found</string>
+    <string name="last_visit_date">Last Visit: %s</string>
+    <string name="buy_now">Buy Now</string>
+    <string name="no_internet">No Internet Connection</string>
+    <string name="explore_music">Explore Music!</string>
+</resources>
